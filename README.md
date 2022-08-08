@@ -1,4 +1,8 @@
 # rpsUI
+READ FIRST:
+forked from Coding With Rob youtube channel and github to experiment with myself to better understand the DOM 
+
+
 We revisited our project Rock Paper Scissors and added a UI
 
 Part 1 of revisit: https://youtu.be/mje-I4AncSw
